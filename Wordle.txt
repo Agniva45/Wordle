@@ -1,0 +1,4 @@
+Hello my LinkedIn connections,
+Hope all of you are doing well, I have created a Wordle game using Python.
+In this game the player has to guess a five letter word and he will be given six attempts for the same.
+With every attempt the player will be notified whether the letters of the word which he/she has guessed is present or absent in the main target word and if present whether it is at the right spot or not ,using different colors
